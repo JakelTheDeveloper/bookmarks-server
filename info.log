@@ -1,0 +1,23 @@
+{"message":"Unauthorized request to path: ${req.path}","level":"error"}
+{"message":"Unauthorized request to path: ${req.path}","level":"error"}
+{"message":"Unauthorized request to path: ${req.path}","level":"error"}
+{"message":"Unauthorized request to path: ${req.path}","level":"error"}
+{"message":"Unauthorized request to path: ${req.path}","level":"error"}
+{"message":"Unauthorized request to path: ${req.path}","level":"error"}
+{"message":"Unauthorized request to path: ${req.path}","level":"error"}
+{"message":"Bookmark with id 6ff not found.","level":"error"}
+{"message":"Bookmark with id 1ac1649a-a35c-4621-9361-1cd0eb78b443 created","level":"info"}
+{"message":"Bookmark with id d3363bf1-c3b9-4725-9e27-d02adc9bf42e created","level":"info"}
+{"message":"Bookmark with id ty not found.","level":"error"}
+{"message":"Unauthorized request to path: ${req.path}","level":"error"}
+{"message":"Bookmark with id x56w deleted.","level":"info"}
+{"message":"Unauthorized request to path: ${req.path}","level":"error"}
+{"message":"Bookmark with id x65w not found.","level":"error"}
+{"message":"Bookmark with id x56w deleted.","level":"info"}
+{"message":"Bookmark with id x56w not found.","level":"error"}
+{"message":"Bookmark with id 33b47fc5-771a-4cab-9566-c05dad606d60 created","level":"info"}
+{"message":"Bookmark with id 75fb84e5-d348-47e1-9fb3-08d89ba2a12b created","level":"info"}
+{"message":"Unauthorized request to path: ${req.path}","level":"error"}
+{"message":"Bookmark with id x56w deleted.","level":"info"}
+{"message":"Bookmark with id 146d43b0-a3ac-458f-9eb0-45b58791ce65 created","level":"info"}
+{"message":"Bookmark with id x56w deleted.","level":"info"}
